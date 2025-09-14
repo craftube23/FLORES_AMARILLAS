@@ -83,8 +83,8 @@ body{
 @media screen and (max-width:574px){
     .greetings{
         display: block;
-        font-size: 4rem;
-        font-weight: 800;
+        font-size: 7rem;
+        font-weight: 900;
         text-align: center;
     }
     .description{
